@@ -59,7 +59,7 @@ Users can enter:
 - Previous Marks
 
 The application then predicts the student's expected final marks.
-![AI Student Performance Predictor](./gradio_app.png)
+
 ## 🛠️ Technologies Used
 
 - Python
