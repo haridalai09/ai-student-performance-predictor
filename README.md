@@ -77,4 +77,5 @@ The application then predicts the student's expected final marks.
 AI-Student-Performance-Predictor/
 │
 ├── AI_Student_Performance_Predictor.ipynb
-└── README.md
+├── README.md
+└── gradio_app.png
